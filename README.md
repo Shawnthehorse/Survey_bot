@@ -12,7 +12,8 @@
    python main.py --info intro.json --url (your survey url)
    ```
 6. The experiment is done
-      1). using Python 3.11 and on MacOS Tahoe Version 26.5.1
-      2) API key provided by OpenAI (gpt-4o)
+    1) using Python 3.11 and on MacOS Tahoe Version 26.5.1
+    2) API key provided by OpenAI (gpt-4o)
+
    
    
