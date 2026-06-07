@@ -1,0 +1,18 @@
+{
+ "first_name": "Shawn",
+	    "last_name": "Chen",
+	    "email": "shawnchen@example.com",
+	    "phone": "765-777-0823",
+	    "age": "26",
+	    "US_citizen": 1,
+	    "sponsorship_needed": 0,
+	    "postal_code": "47906",
+	    "country": "USA",
+	    "city": "Lafayette",
+	    "address": "151 Main St",
+
+	    "gender": "Male",
+	    "race": "Asian",
+	    "Veteran_status": "Not a veteran",
+	    "disability_status": "No disability"
+	}
